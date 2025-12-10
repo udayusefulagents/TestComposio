@@ -1,0 +1,4 @@
+Line 1: Hello World!
+Line 2: Special chars: @#$%^&*()
+Line 3: Unicode: café, naïve, 日本語
+Line 4: Code: const x = 'test';
