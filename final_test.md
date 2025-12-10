@@ -1,0 +1,1 @@
+# Test Document\n\nThis is a **markdown** file with:\n- Multiple lines\n- Special characters: @#$%\n- Code: `const x = 1;`\n- Unicode: café ☕
