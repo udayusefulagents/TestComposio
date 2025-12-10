@@ -1,1 +1,1 @@
-Hello World - this is plain text that should be auto-encoded to base64
+Updated content - still plain text that needs encoding
