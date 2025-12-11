@@ -1,0 +1,1 @@
+This is plain text content that should be auto-encoded to Base64
